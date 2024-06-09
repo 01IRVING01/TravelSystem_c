@@ -1,0 +1,10 @@
+release/qrc_image.o
+release/qrc_qss.o
+release/City.o
+release/DayTime.o
+release/Passenger.o
+release/PlanAlgorithm.o
+release/main.o
+release/mainwindow.o
+release/Graph.o
+release/moc_mainwindow.o

@@ -1,0 +1,10 @@
+debug/qrc_image.o
+debug/qrc_qss.o
+debug/City.o
+debug/DayTime.o
+debug/Passenger.o
+debug/PlanAlgorithm.o
+debug/main.o
+debug/mainwindow.o
+debug/Graph.o
+debug/moc_mainwindow.o
